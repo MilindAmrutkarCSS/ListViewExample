@@ -1,4 +1,4 @@
-package com.tushar.listviewexample.adapter;
+package com.milind.listviewexample.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.tushar.listviewexample.R;
-import com.tushar.listviewexample.model.Employee;
+import com.milind.listviewexample.R;
+import com.milind.listviewexample.model.Employee;
 
 import java.util.ArrayList;
 

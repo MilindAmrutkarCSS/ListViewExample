@@ -1,4 +1,4 @@
-package com.tushar.listviewexample;
+package com.milind.listviewexample;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
@@ -12,8 +12,8 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.tushar.listviewexample.adapter.DataAdapter;
-import com.tushar.listviewexample.model.Employee;
+import com.milind.listviewexample.adapter.DataAdapter;
+import com.milind.listviewexample.model.Employee;
 
 import java.util.ArrayList;
 

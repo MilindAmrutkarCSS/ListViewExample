@@ -1,7 +1,6 @@
-package com.tushar.listviewexample.model;
+package com.milind.listviewexample.model;
 
 public class Employee {
-
 
     String address;
 

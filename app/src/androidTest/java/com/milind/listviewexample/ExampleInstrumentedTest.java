@@ -1,4 +1,4 @@
-package com.tushar.listviewexample;
+package com.milind.listviewexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

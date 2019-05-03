@@ -1,4 +1,4 @@
-package com.tushar.listviewexample;
+package com.milind.listviewexample;
 
 import org.junit.Test;
 
