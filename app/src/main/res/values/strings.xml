@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="address">Enter an Address</string>
+    <string name="submitButton">Submit</string>
+    <string name="address_hint">Shiv Gaurav Building</string>
+</resources>
